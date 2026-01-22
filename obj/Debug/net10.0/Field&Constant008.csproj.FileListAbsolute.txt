@@ -1,0 +1,14 @@
+C:\Users\SAIF\source\repos\Field&Constant008\bin\Debug\net10.0\Field&Constant008.exe
+C:\Users\SAIF\source\repos\Field&Constant008\bin\Debug\net10.0\Field&Constant008.deps.json
+C:\Users\SAIF\source\repos\Field&Constant008\bin\Debug\net10.0\Field&Constant008.runtimeconfig.json
+C:\Users\SAIF\source\repos\Field&Constant008\bin\Debug\net10.0\Field&Constant008.dll
+C:\Users\SAIF\source\repos\Field&Constant008\bin\Debug\net10.0\Field&Constant008.pdb
+C:\Users\SAIF\source\repos\Field&Constant008\obj\Debug\net10.0\Field&Constant008.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAIF\source\repos\Field&Constant008\obj\Debug\net10.0\Field&Constant008.AssemblyInfoInputs.cache
+C:\Users\SAIF\source\repos\Field&Constant008\obj\Debug\net10.0\Field&Constant008.AssemblyInfo.cs
+C:\Users\SAIF\source\repos\Field&Constant008\obj\Debug\net10.0\Field&Constant008.csproj.CoreCompileInputs.cache
+C:\Users\SAIF\source\repos\Field&Constant008\obj\Debug\net10.0\Field&Constant008.dll
+C:\Users\SAIF\source\repos\Field&Constant008\obj\Debug\net10.0\refint\Field&Constant008.dll
+C:\Users\SAIF\source\repos\Field&Constant008\obj\Debug\net10.0\Field&Constant008.pdb
+C:\Users\SAIF\source\repos\Field&Constant008\obj\Debug\net10.0\Field&Constant008.genruntimeconfig.cache
+C:\Users\SAIF\source\repos\Field&Constant008\obj\Debug\net10.0\ref\Field&Constant008.dll
