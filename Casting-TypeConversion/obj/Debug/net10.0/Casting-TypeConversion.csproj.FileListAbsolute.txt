@@ -1,0 +1,14 @@
+C:\Users\SAIF\source\repos\Casting-TypeConversion\bin\Debug\net10.0\Casting-TypeConversion.exe
+C:\Users\SAIF\source\repos\Casting-TypeConversion\bin\Debug\net10.0\Casting-TypeConversion.deps.json
+C:\Users\SAIF\source\repos\Casting-TypeConversion\bin\Debug\net10.0\Casting-TypeConversion.runtimeconfig.json
+C:\Users\SAIF\source\repos\Casting-TypeConversion\bin\Debug\net10.0\Casting-TypeConversion.dll
+C:\Users\SAIF\source\repos\Casting-TypeConversion\bin\Debug\net10.0\Casting-TypeConversion.pdb
+C:\Users\SAIF\source\repos\Casting-TypeConversion\obj\Debug\net10.0\Casting-TypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAIF\source\repos\Casting-TypeConversion\obj\Debug\net10.0\Casting-TypeConversion.AssemblyInfoInputs.cache
+C:\Users\SAIF\source\repos\Casting-TypeConversion\obj\Debug\net10.0\Casting-TypeConversion.AssemblyInfo.cs
+C:\Users\SAIF\source\repos\Casting-TypeConversion\obj\Debug\net10.0\Casting-TypeConversion.csproj.CoreCompileInputs.cache
+C:\Users\SAIF\source\repos\Casting-TypeConversion\obj\Debug\net10.0\Casting-TypeConversion.dll
+C:\Users\SAIF\source\repos\Casting-TypeConversion\obj\Debug\net10.0\refint\Casting-TypeConversion.dll
+C:\Users\SAIF\source\repos\Casting-TypeConversion\obj\Debug\net10.0\Casting-TypeConversion.pdb
+C:\Users\SAIF\source\repos\Casting-TypeConversion\obj\Debug\net10.0\Casting-TypeConversion.genruntimeconfig.cache
+C:\Users\SAIF\source\repos\Casting-TypeConversion\obj\Debug\net10.0\ref\Casting-TypeConversion.dll

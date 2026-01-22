@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../Casting-TypeConversion-Example/Casting-TypeConversion-Example.csproj" />
+  <Project Path="Casting-TypeConversion.csproj" />
+</Solution>

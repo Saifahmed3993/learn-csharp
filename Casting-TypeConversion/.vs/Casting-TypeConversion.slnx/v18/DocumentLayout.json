@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SAIF\\source\\repos\\Casting-TypeConversion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56F977C0-D21D-483C-954F-EDB14A801BF0}|..\\Casting-TypeConversion-Example\\Casting-TypeConversion-Example.csproj|c:\\users\\saif\\source\\repos\\casting-typeconversion-example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66F8573-C222-424C-8B98-2371D493CDE0}|Casting-TypeConversion.csproj|c:\\users\\saif\\source\\repos\\casting-typeconversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C66F8573-C222-424C-8B98-2371D493CDE0}|Casting-TypeConversion.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SAIF\\source\\repos\\Casting-TypeConversion-Example\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Casting-TypeConversion-Example\\Program.cs",
+              "ToolTip": "C:\\Users\\SAIF\\source\\repos\\Casting-TypeConversion-Example\\Program.cs",
+              "RelativeToolTip": "..\\Casting-TypeConversion-Example\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:21:38.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SAIF\\source\\repos\\Casting-TypeConversion\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\SAIF\\source\\repos\\Casting-TypeConversion\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAAAL8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T11:26:14.065Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
